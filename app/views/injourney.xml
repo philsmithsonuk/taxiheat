@@ -1,0 +1,13 @@
+<Alloy>
+	<Window id="injourney">
+		<Require src="background"/>
+		<View class="container">
+			<Label class="container_heading"></Label>
+			<View class="container_body">
+				<Label id="lbl_injourney"></Label>			
+				<Button id="btn_help"/>
+				<Button id="btn_endJourney"/>
+			</View>	
+		</View>	
+	</Window>
+</Alloy>

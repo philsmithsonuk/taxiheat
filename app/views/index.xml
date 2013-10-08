@@ -1,0 +1,12 @@
+<Alloy>
+	<Window id="index">
+		<Require src="background"/>
+		<View class="container">
+			<Label class="container_heading"></Label>
+			<View class="container_body">
+				<Label id="info" class="container_main_label"></Label>
+				<Button id="start_button"/>
+			</View>	
+		</View>	
+	</Window>
+</Alloy>

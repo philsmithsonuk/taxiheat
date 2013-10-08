@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+		
+	<!-- buttons -->
+	<string name="start_button">Start</string>
+	<string name="save_config">Proceed</string>	
+	<string name="start_journey">Start Journey!</string>
+	<string name="end_journey">End Journey</string>
+	<string name="submit_fare">Submit Fare</string>
+	<string name="help">Help!</string>
+	<string name="help_sub">Your emergency contacts will be notified via SMS that you are in danger</string>
+	<string name="btn_help">HELP!</string>
+		
+	<!-- headings -->
+	<string name="config_heading">Setup Taxi Heat</string>	
+	<string name="prejourney_heading">Enter Journey Details</string>
+	<string name="injourney_heading">Recording Your Journey</string>
+	<string name="end_heading">Journey Complete!</string>
+	<string name="index_title">KEEP SAFE!</string>
+	
+	<!-- main labels -->
+	<string name="index_info">If you get into trouble beacuse of a dishonest taxi driver, you can use Taxi Heat to notify your friends and family of your situation.\n\nIf you press the "help" button during your journey, we will send a text message and your approximate location to your emergency contact.\n\nTaxi Heat has got your back.</string>
+	<string name="lbl_contact1">Emergency Contact #1</string>
+	<string name="lbl_contact2">Emergency Contact #2</string>
+	<string name="lbl_contact3">Emergency Contact #3</string>
+	<string name="lbl_taxiPlate">Taxi Plate Number</string>
+	<string name="lbl_taxiPhone">Taxi Phone Number</string>
+	<string name="lbl_injourney">Lock the doors,\nClose the windows,\nStay alert!</string>
+	<string name="lbl_fare">How much was your fare?</string>
+	
+	<!-- alerts -->
+	<string name="contact_exists">This phone number already exists on your list, try adding another!</string>
+	<string name="complete_all">Please complete all fields</string>
+	<string name="msg_help">Your emergency contacts have been notified of your approximate location, plate number and taxi phone number.</string>
+	<string name="alrt_fare">Please fill in the fare</string>
+	<string name="alrt_end">Thanks for using Taxi Heat! See you again next time!</string>
+	<string name="alrt_gpsFail">Sorry, we could not get your current location, please enable GPS and try again.</string>
+	<string name="alrt_locationRequest">Get your current location</string>
+	<string name="alrt_gpsFailSMSSent">We could not get your current location but sent an SMS to your emergency contacts with your last known location.</string>
+	<string name="alrt_offline">Sorry you have to be online to do that, please connect and try again</string>
+	<string name="alrt_removeUser">Are you sure you want to remove this emergency contact?</string>
+</resources>

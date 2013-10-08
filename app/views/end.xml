@@ -1,0 +1,24 @@
+<Alloy>
+	<Window id="end">
+		<Require src="background"/>
+		<View class="container">
+			<Label class="container_heading"></Label>
+			<View class="container_body">
+				<View id="view_distTime">
+					<View id="view_distance">
+						<Label id="lbl_distanceValue"></Label>
+						<Label id="lbl_distance"></Label>
+					</View>
+					<View id="view_time">
+						<Label id="lbl_timeValue"></Label>
+						<Label id="lbl_time"></Label>
+					</View>	
+				</View>	
+				<Label id="lbl_fare"></Label>
+				<TextField id="txf_fare"></TextField>
+						
+				<Button id="submit_fare"/>
+			</View>	
+		</View>	
+	</Window>
+</Alloy>

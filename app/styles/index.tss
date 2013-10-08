@@ -1,0 +1,11 @@
+".container_heading":{
+	text: L('index_title')
+} 
+"#start_button":{
+	title: L('start_button')
+}
+"#info":{
+	text: L('index_info'),
+
+	
+}

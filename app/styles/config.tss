@@ -1,0 +1,72 @@
+".container":{
+	backgroundColor:"blue"
+}
+"#container_image": {
+	backgroundColor:"white"
+}
+".container_heading":{
+	text:L('config_heading')
+}
+"#save_config":{
+	title:L('save_config')
+}
+"#lbl_contact1":{
+	text:L('lbl_contact1')
+}
+"#lbl_contact2":{
+	text:L('lbl_contact2')
+}
+"#lbl_contact3":{
+	text:L('lbl_contact3')
+}
+"Label":{
+	top: 10
+}
+".lbl_contactName":{
+	font:{fontSize:15},
+	color:"#fff",
+	width: "160dp",
+	top: "5dp",
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	backgroundColor:"#000",
+	borderRadius: "5dp",
+	borderWidth: "2dp"
+	
+}
+".vie_contact":{
+	backgroundColor:"transparent",
+	//TODO: Center ths properly, left/right doesn't feel like the best solution
+	left:"43dp",
+	right:"40dp",
+	height: "30dp",
+	layout: "horizontal"
+}
+".lbl_addContact":{
+	backgroundImage:"logo.png"
+}
+".img_contact":{
+	width: "24dp",
+	height: "23dp",
+	image: "logo.png",
+	left: 0
+}
+".img_contactAdd":{
+	top: "3dp",
+	width: "24dp",
+	height: "23dp",
+	image: "add.png",
+	right: 0
+}
+".img_contactRemove":{
+	top: "3dp",
+	width: "20dp",
+	height: "21dp",
+	image: "remove.png",
+	right: 0
+}
+".lbl_config":{
+	color:"black",
+	shadowColor: "#fff",
+	shadowOffset:{x:1,y:1},
+	top:"5dp"
+}

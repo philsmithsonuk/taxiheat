@@ -1,0 +1,17 @@
+<Alloy>
+	<Window id="prejourney">
+		<Require src="background"/>
+		<View class="container">
+			<Label class="container_heading"></Label>
+			<View class="container_body">
+				<Label id="lbl_taxiPlate" class="lbl_preJourney"></Label>
+				<TextField id="txf_taxiPlate" class="txf_input"></TextField>
+				
+				<Label id="lbl_taxiPhone" class="lbl_preJourney"></Label>
+				<TextField id="txf_taxiPhone" class="txf_input"></TextField>
+				
+				<Button id="start_journey"/>
+			</View>	
+		</View>	
+	</Window>
+</Alloy>

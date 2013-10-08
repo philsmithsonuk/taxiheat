@@ -1,0 +1,26 @@
+"#submit_fare":{
+	title:L('submit_fare')
+}
+".container_heading":{
+	text:L('end_heading')
+}
+"#lbl_fare":{
+	text:L('lbl_fare')
+}
+"#view_distance":{
+	width:"50%"
+}
+"#view_time":{
+	width:"50%"
+}
+"#view_distTime":{
+	layout: "horizontal",
+	height: "150dp",
+	backgroundColor: "#f5f5f5"
+}
+"#txf_fare":{
+	backgroundColor: "white"
+}
+"#lbl_distanceValue":{
+	top:"10dp"
+}

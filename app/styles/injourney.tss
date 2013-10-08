@@ -1,0 +1,29 @@
+"#container_image": {
+	backgroundColor:"white"
+}
+"#btn_endJourney":{
+	title:L('end_journey'),
+	backgroundGradient:{
+			startPoint:{y:'0%'},
+			endPoint:{y:'100%'},
+			colors:[
+				{color:'#fcc278',offset:0.0},
+				{color:'#f8a535',offset:0.5},
+				{color:'#f18700',offset:0.5},
+				{color:'#faac16',offset:1.0}]
+	},
+}
+"#btn_help":{
+	title:L('btn_help'),
+	height:"100dp"
+}
+".container_heading":{
+	text:L('injourney_heading')
+}
+"#lbl_injourney":{
+	text:L('lbl_injourney'),
+	backgroundColor: "#fff",
+	height: "100dp",
+	color:"#000",
+	width: "270dp"
+}

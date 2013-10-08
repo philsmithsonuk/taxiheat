@@ -1,0 +1,5 @@
+<Alloy>
+		<View id="background">
+        		<ImageView id="image_logo" image="logo.png" />               	
+		</View>	
+</Alloy>

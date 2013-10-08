@@ -1,0 +1,29 @@
+<Alloy>
+	<Window id="config">
+		<Require src="background"/>
+		<View class="container">
+			<Label class="container_heading"></Label>
+			<View class="container_body">
+				<Label id="lbl_contact1" class="lbl_config"></Label>
+				<View id="vie_contact1" class="vie_contact">
+					<Label id="lbl_contact1Name" class="lbl_contactName"></Label>
+					<ImageView id="img_contact1Add" class="img_contactAdd"/>		
+				</View>
+				<!-- TODO: add additonal fields -->
+				<!--<Label id="lbl_contact2" class="lbl_config"></Label>
+				<View id="vie_contact2" class="vie_contact">
+					<Label id="lbl_contact2Name" class="lbl_contactName"></Label>
+					<ImageView id="img_contact2Add" class="img_contactAdd"/>		
+				</View>
+				
+				<Label id="lbl_contact3" class="lbl_config"></Label>
+				<View id="vie_contact3" class="vie_contact">
+					<Label id="lbl_contact3Name" class="lbl_contactName"></Label>
+					<ImageView id="img_contact3Add" class="img_contactAdd"/>		
+				</View>-->
+				
+				<Button id="save_config"/>
+			</View>	
+		</View>	
+	</Window>
+</Alloy>

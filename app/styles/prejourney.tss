@@ -1,0 +1,32 @@
+".container": {
+	backgroundColor:"red"
+}
+"#start_journey":{
+	title:L('start_journey')
+}
+".container_heading":{
+	text:L('prejourney_heading')
+}
+"#lbl_taxiPlate":{
+	text:L('lbl_taxiPlate')
+}
+"#lbl_taxiPhone":{
+	text:L('lbl_taxiPhone')
+}
+".txf_input":{
+	width:"200dp",
+	font:{fontSize:15},
+	color:"#fff",
+	width: "160dp",
+	top: "5dp",
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	backgroundColor:"#000",
+	borderRadius: "5dp",
+	borderWidth: "2dp"
+}
+".lbl_preJourney":{
+	color:"black",
+	shadowColor: "#fff",
+	shadowOffset:{x:1,y:1},
+	top:"5dp"
+}

@@ -1,0 +1,11 @@
+"#image_logo": {
+	backgroundColor:"transparent",
+	top: "32dp",
+	height:"100",
+	width:"100"
+}
+"#background":{
+	top:0,
+	backgroundImage: "background-image.png",
+	height:"172dp"
+}
